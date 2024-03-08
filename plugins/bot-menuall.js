@@ -40,7 +40,7 @@ before: `> ╭─❒ 「 *Usuario* 🎗️ 」
 %readmore`.trimStart(),
 
 header: '> ╭─❒ 「 *%category* 」',
-body: '> │○  %cmd',
+body: '┃➦💥  %cmd',
 footer: '> ╰───────────\n',
 after: `
 `,
