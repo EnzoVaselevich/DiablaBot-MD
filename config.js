@@ -1,7 +1,7 @@
 /* ⚙️ Credits to:
-* AzamiJs
-* Elrebelde21
-* GataNina-Li */
+* EnzitoOFC
+* 
+* /
 
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
