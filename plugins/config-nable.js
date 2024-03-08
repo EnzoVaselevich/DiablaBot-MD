@@ -302,7 +302,11 @@ _${usedPrefix + command} *antisticker*_
 _${usedPrefix + command} *autosticker*_
 _${usedPrefix + command} *antibule*_
 
+━━━━▣━━◤◢━━▣━━━━━
+
 *🍧 OPCIONES DE PROPIETARIO*
+
+━━━━▣━━◤◢━━▣━━━━━
 
 _${usedPrefix + command} *restrict*_
 _${usedPrefix + command} *public*_
