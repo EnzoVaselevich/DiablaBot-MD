@@ -26,7 +26,7 @@ global.isdev = [['5217294888993'], ['5492266466080'], ['5492266613038'], ['52156
 //Aqui encuentras los nombres del bot
 global.packname = ''
 global.author = 'DiblaBot-MD'
-global.wm = '© DiablitBot-MD'
+global.wm = '© DiablitaBot-MD'
 global.wm2 = 'DiablaBot | MD'
 global.azami = 'EnzitoOFC'
 global.cb = 'DiablaBot-MD'
