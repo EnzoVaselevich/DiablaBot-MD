@@ -11,8 +11,8 @@ let bio = biografia.status?.toString() || 'Sin Biografía'
 let biobot = biografiaBot.status?.toString() || 'Sin Biografía'
 
 await conn.sendContactArray(m.chat, [
-[devnum, `${await conn.getName('5491130182250'+'@s.whatsapp.net')}`, `🍭 Creador`, dev, email, `🇲🇽 México`, `https://www.youtube.com/@Azami_YT`, bio],
-[`${conn.user.jid.split('@')[0]}`, `${await conn.getName(conn.user.jid)}`, `DiablaBot-MD`, `📵 No Hacer Spam`, email, `🇦🇷 Argentina`, `https://github.com/EnzoVaselevich/DiablaBot-MD, biobot]
+[devnum, `${await conn.getName('5491130182250'+'@s.whatsapp.net')}`, `🍭 Creador`, dev, email, `🇦🇷 Argentina`, `https://www.youtube.com/Enzito19`, bio],
+[`${conn.user.jid.split('@')[0]}`, `${await conn.getName(conn.user.jid)}`, `DiablaBot-MD`, `📵 No Hacer Spam`, email, `🇦🇷 Argentina`, `https://github.com/EnzoVaselevich/DiablaBot-MD`, biobot]
 ], m)
   
 }
