@@ -30,7 +30,7 @@ before: `> ╭─❒ 「 *Usuario* 🎗️ 」
 > │○ *Exp:* %exp
 > │
 > ├─❒ 「 *InfoBot* 🚩 」
-> │○ *Creador:* Enzkto / OFC
+> │○ *Creador:* Enzito / OFC
 > │○ *Tiempo Activo:* %muptime
 > │○ *Registrados:* %rtotalreg De %totalreg Usuarios
 > │
